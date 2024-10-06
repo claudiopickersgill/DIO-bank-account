@@ -1,0 +1,22 @@
+{
+    "1": {
+        "tipo": "deposito",
+        "valor": 1000.0,
+        "data": "2024-10-06"
+    },
+    "2": {
+        "tipo": "deposito",
+        "valor": 2000.0,
+        "data": "2024-10-06"
+    },
+    "3": {
+        "tipo": "saque",
+        "valor": 500.0,
+        "data": "2024-10-06"
+    },
+    "4": {
+        "tipo": "deposito",
+        "valor": 1000.0,
+        "data": "2024-10-06"
+    }
+}
